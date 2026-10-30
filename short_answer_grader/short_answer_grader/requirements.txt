@@ -1,0 +1,4 @@
+streamlit>=1.30
+sentence-transformers>=2.2   # optional: without it the app falls back to a lightweight lexical embedder
+pandas>=2.0
+pytest>=7.0

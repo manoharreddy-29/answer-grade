@@ -1,0 +1,15 @@
+{
+  "photosynthesis": {
+    "question": "What is photosynthesis?",
+    "reference": "Photosynthesis is the process by which green plants make their own food using sunlight, carbon dioxide and water.",
+    "max_marks": 10,
+    "concepts": [
+      {"name": "photosynthesis", "aliases": []},
+      {"name": "green plants", "aliases": ["plants", "plant", "chlorophyll"]},
+      {"name": "sunlight", "aliases": ["light", "solar energy"]},
+      {"name": "carbon dioxide", "aliases": ["co2"]},
+      {"name": "water", "aliases": ["h2o"]},
+      {"name": "food", "aliases": ["glucose", "sugar", "starch"]}
+    ]
+  }
+}
